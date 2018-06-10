@@ -1,15 +1,23 @@
-# Flux 
-
-An application architecture for React
+# Description Acoustique des harpes d'Afrique Centrale
 
 ---
 
-### Flux Design
+## Objectifs
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Recherche de descripteurs pertinents |
+- Analyse avec un nombre limité de capteurs |
+- Système potable autonome |
+- Synthèse de l'instrument
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+## Descripteurs
+
+Identifier la manière la plus simple et la plus complète pour représenter un système
+
++++
+
+- Composantes modales de la caisse |
+- Modèle de **poutre**, **membrane**, **coque**, **plaque** |
+- Identifier la **non-linéarité** des cordes
+
