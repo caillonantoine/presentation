@@ -32,7 +32,7 @@ Utilisation de l'excitation naturelle pour identifier les composantes modales de
 +++
 
 - Pas de marteau d'impact
-- **E**stimation of **S**ignal **P**arameters using **R**otationnal **I**nvariance **T**echniques |
+- **E**stimation of **S**ignal **P**arameters using **R**otationnal **I**nvariance **T**echniques
 - Méthode haute résolution
 
 ---
