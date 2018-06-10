@@ -5,9 +5,9 @@
 ## Objectifs
 
 - Recherche de descripteurs pertinents 
-- Analyse avec un nombre limité de capteurs |
-- Système potable autonome |
-- Synthèse de l'instrument |
+- Analyse avec un nombre limité de capteurs
+- Système potable autonome
+- Synthèse de l'instrument
 
 ---
 
@@ -18,10 +18,10 @@ Identifier la manière la plus simple et la plus complète pour représenter un 
 +++
 
 - Composantes modales de la caisse 
-- Modèle de **poutre**, **membrane** |, **coque** |, **plaque** |
-- Identifier la **non-linéarité** des cordes |
-- Centre de gravité spectrale |
-- Moyenne de mobilité |
+- Modèle de **poutre**, **membrane**, **coque**, **plaque**
+- Identifier la **non-linéarité** des cordes
+- Centre de gravité spectrale
+- Moyenne de mobilité
 
 ---
 
@@ -44,9 +44,9 @@ Analyser les harpes facilement, sur le terrain
 +++
 
 - Système sur batterie
-- Contrôlable par un téléphone / tablette |
-- Nombre limité de capteurs |
-- Usage par un non spécialiste |
+- Contrôlable par un téléphone / tablette
+- Nombre limité de capteurs
+- Usage par un non spécialiste
 
 ---
 
@@ -57,7 +57,7 @@ Synthèse de la harpe analysée
 +++
 
 - Utilisation d'un modèle couplé **corde** - **caisse**
-- Formulation **Udwadia Kalaba** |
+- Formulation **Udwadia Kalaba**
 
 +++?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
